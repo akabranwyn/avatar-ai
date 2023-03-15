@@ -22,18 +22,21 @@ But apart from the absurdity and sadness of a life with only a shallow emotional
 
 ### The rise of LLM
 
-In the past year alone we've seen the explosion of Large Language Models such as ChatGPT (based on GPT-3) onto the scene, creating huge impact as well as headlines.
+In the past year alone we've seen the explosion of Large Language Models such as ChatGPT (based on GPT-3.5 wrapped with an API) onto the scene, creating huge impact as well as headlines.
 
 * Clips, ChatGPT coverage*
+* GPT-2 releases 05/19, GPT-3 releases 05/20, GPT-3.5 releases Nov/22 *
 
-With the arrival of GPT-4 just under year later, the promise of true conversational AI is just around the corner, right? *nuclear fusion a decade away*
+With the arrival of GPT-4 just under a year later in March 2023 (with much thanks to reinforced learnings with ChatGPT's feedback and collosal success), the promise of true conversational AI is just around the corner, right? *nuclear fusion a decade away*
 
 Consider this though; any large language model (in this case, an inference model) is simply a set of connected layers providing a mathematical (and probabilistic) pathway from one dissected input such as text, images, or speech to an appropriately formatted response. Now the way this model is generated takes into account a wide range of data. This can be targetted to specific situations of course, but the most appealing form is to be able to be as generic as possible, and able to respond to the widest array of possible input prompts. This is what you'd want in your partner, right? The same formulaic responses would just be boring.
 
 ### About GPT-4
 
-- GPT-4 is successful in these situations
-- GPT-4 also suffers from hallucinations
+https://openai.com/research/gpt-4
+- GPT-4 is successful in these situations : written responses that can be answered through rote repitition, recitation of sources, or can be deemed as otherwise objectively correct
+- GPT 4 is unsuccessful when: reasoned problem solving and solution thinking are required (creating complex functional code from a basic prompt; complex multistep math (calculus); ***creative or non-formulaic writing***)
+- GPT-4 also suffers from hallucinations : creating false answers through ignoring key prompt details; citing incorrect sources (or made up ones); ***deducing incorrect answers from conflicting information***; creating responses that look correct but are false.
 
 ### The Linear Projection fallacy
 
@@ -54,7 +57,7 @@ What does a normal product development cycle look like? Let's say we start today
 
 Now, add in some capability to interact, even a year from now let's call it GPT-5; What are we looking at? 
 
-*Synthesized voice from chatgpt output, static doll*
+*Synthesized voice from chatgpt output, let's say human edited, static doll*
 
 Is this really appealing as a companion - even just for sex? Let's move forward another year - we refine the features, add some incredible advancements in robotics, we get some ... convincing facial movement and upgrade to GPT-6! This time with realistic pillow talk AND moaning in 30 different languages. Formulaic responses sure, but at least this has a learning capability for training to a much more personalized response set based on previous conversations. She remembers you had that project due and wishes she could actually rub your shoulders.
 
